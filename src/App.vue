@@ -1,7 +1,7 @@
 <template>
 <Nav />
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Hema's page" />
+  <HelloWorld msg="Welcome to Hema's page new" />
 </template>
 
 <script>
